@@ -47,8 +47,8 @@ export const SITE_CONTENT: SiteContent = {
       company: "The Boeing Company",
       logoUrl: "/boeing.png",
       position: "Full Stack Cloud Developer 1",
-      startDate: "May 2025",
-      endDate: "August 2023",
+      startDate: "August 2023",
+      endDate: "May 2025",
       summary: [
         " Migrated 9 enterprise applications on Azure Gov Cloud, reducing technical debt by $1.2M and improving infrastructure scalability.",
         "Refactored and re-platformed legacy on-premise applications to Azure Gov Cloud, increasing performance and reliability.",
